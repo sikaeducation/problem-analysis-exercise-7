@@ -15,14 +15,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * $8000
-    * An 8% investment and a 6% investment
-    * A return of $550
   * Identifies the unknown
-    * How much money was in the 8% investment
-    * How much money was in the 6% investment
   * Identifies the constraint
-    * All of the money was invested
-    * The sum of the amount invested by the rate of return needs to add up to $550
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
